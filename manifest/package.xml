@@ -26,6 +26,14 @@
     </types>
     <types>
         <members>*</members>
+        <name>FlexiPage</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>LightningMessageChannel</name>
+    </types>
+    <types>
+        <members>*</members>
         <name>StaticResource</name>
     </types>
     <types>
