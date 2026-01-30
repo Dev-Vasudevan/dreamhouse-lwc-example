@@ -6,6 +6,14 @@
       "package": "DreamhouseLWC",
       "versionName": "Summer '25",
       "versionNumber": "64.0.0.NEXT"
+    },
+    {
+      "versionName": "ver 0.1",
+      "versionNumber": "0.1.0.NEXT",
+      "path": "force-app",
+      "default": false,
+      "package": "Dreamhouse_Package",
+      "versionDescription": ""
     }
   ],
   "namespace": "",
@@ -13,6 +21,11 @@
   "packageAliases": {
     "DreamhouseLWC": "0Ho3h000000PBghCAG",
     "DreamhouseLWC@61.0.0-4": "04tKY000000LP3aYAG",
-    "DreamhouseLWC@64.0.0-3": "04tKY000000MF7uYAG"
+    "DreamhouseLWC@64.0.0-3": "04tKY000000MF7uYAG",
+    "Dreamhouse_Package": "0Hoam0000002tmnCAA",
+    "Dreamhouse_Package@0.1.0-1": "04tam000003t7OvAAI",
+    "Dreamhouse_Package@0.1.0-2": "04tam000003tgEbAAI",
+    "Dreamhouse_Package@0.1.0-3": "04tam0000043KMTAA2",
+    "Dreamhouse_Package@0.1.0-4": "04tam0000043KO5AAM"
   }
 }
