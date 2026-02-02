@@ -2,6 +2,10 @@
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
         <members>*</members>
+        <members>FileUtilitiesTest</members>
+        <members>GeocodingServiceTest</members>
+        <members>TestPropertyController</members>
+        <members>TestSampleDataController</members>
         <name>ApexClass</name>
     </types>
     <types>
